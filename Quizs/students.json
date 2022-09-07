@@ -1,0 +1,14 @@
+{"Bob":
+        {"math":15,
+         "english":10,
+         "science":17},
+"adam":
+        {"math":17,
+         "english":12,
+         "science":11},
+
+"ibrahim":
+        {"math":20,
+         "english":14,
+         "science":18}
+}
